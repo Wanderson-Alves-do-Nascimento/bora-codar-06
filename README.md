@@ -1,16 +1,14 @@
-<div align="center" id="top"> 
-</div>
-
-<h1 align="center">Bora Codar 05</h1>
-<img src="./.github/bora-codar-06.png" alt="Bora Codar 06" align="center"/>
-
-  &#xa0;
-<p align="center">
+<h1 align="center"> #BORACODAR-06 </h1>
 
 <p align="center">
-  <a href="#about">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#technologies">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#memo">Licença</a> &#xa0;
+  Projeto da comunidade Rocketseat onde semanalmente são lançados desafios semanalmente de layouts para mantermos a prática em dia.
+</p>
+
+<p align="center">
+  <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -19,23 +17,27 @@
 
 <br>
 
-<h2 id="about">Sobre</h2>
+<p align="center">
+  <img alt="Bora Codar 06" src="./.github/Bora-Codar-06.png" width="100%">
+</p>
 
-Esse projeto surgiu do desafio semanal da Rocketseat #Boracodar, que tem como intuíto manter a comunidade de desenvolvedores JRs sempre criando novos projetos e se desafiando.
+## 🚀 Tecnologias
 
-<h2 id="technologies">Tecnologias </h2>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-<img style="width: 24px; height: 24px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"> - HTML <br/><br/>
-<img style="width: 24px; height: 24px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"> - CSS 
+<img style="width: 24px; height: 24px" src="https://cdn.worldvectorlogo.com/logos/html-1.svg"> - HTML \
+<img style="width: 24px; height: 24px" src="https://cdn.worldvectorlogo.com/logos/css-3.svg"> - CSS \
 
+## 💻 Projeto
 
-<h2 id="memo">Licença</h2>
+O Carnadev é um exemplo de site de bloco de carnaval para desenvolvedores (aproveitando os melhores trocadilhos).
 
-Este projeto está sobre a licença MIT.
+## 🔖 Layout
 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1205146101173113980). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-Feito com 💜 pela <a href="https://rocketseat.com.br" target="_blank">Rocketseat.</a>
+## Licença
 
-&#xa0;
+Esse projeto está sob a licença MIT.
 
-<a href="#top">Back to top</a>
+---
